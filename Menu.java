@@ -138,7 +138,7 @@ public class Menu {
     }
 
     public static void Menu_cliente(){
-        System.out.println("\n       MENU GERENTE    ");
+        System.out.println("\n       MENU CLIENTE    ");
         System.out.print("==========================\n\n");
         System.out.print("   1 -> Realizar saque\n");
         System.out.print("   2 -> Realizar depósito\n");
