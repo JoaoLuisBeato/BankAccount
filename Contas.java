@@ -53,12 +53,4 @@ public abstract class Contas {
     public void deposit(double valor){
         this.setSaldo(this.getSaldo()+valor);
     }
-
-
-
-
-
-
-
-
 }
